@@ -6,4 +6,4 @@ meu primeiro projeto em Python
 - exibe resultado de calculos
 - sistema academico
 
-  # FEITO POR MENDES
+Feitopor Mendes
