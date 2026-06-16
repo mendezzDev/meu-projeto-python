@@ -8,6 +8,9 @@
 - pergunta o valor que voce ganha
 - pergunta tempo de trabalho no local (faz o calculo perante essa informacao)
 
+## Tecnologia 
+Python
+
   
 ## Autor
 Enzo Mendes
