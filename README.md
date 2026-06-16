@@ -1,6 +1,6 @@
 ## Sistema de academia
 
-## o que faz?
+## Fucionalidades
 - calculo salarial, de aumento
 - pergunta nome
 - pergunta idade
@@ -9,7 +9,7 @@
 - pergunta tempo de trabalho no local (faz o calculo perante essa informacao)
 
   
-## autor
+## Autor
 Enzo Mendes
 
 ## Aprendendo hoje, e desenvolvendo no futuro
